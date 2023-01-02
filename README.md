@@ -1,10 +1,29 @@
-Etherscan Application
+## Usage
 
-How to run this app on simulator?
+```bash
+$ yarn
+```
 
-Run:
-yarn
-npx pod-install
-yarn ios
+```bash
+$ npx pod-install
+```
 
-yarn android (for Android emulator)
+If you want to run ios:
+
+```bash
+$ yarn ios
+```
+
+If you want to run android:
+
+```bash
+$ yarn android
+```
+
+## Result
+
+Search token and see detail it
+(https://i.imgur.com/aLFvokP.gif)
+
+Scan and add token to watch list
+(https://i.imgur.com/S2qmvUs.gif)
